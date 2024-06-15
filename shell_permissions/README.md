@@ -8,4 +8,6 @@ Creates an empty file named `hello`.
 Adds execute permission to the owner of the file `hello`.
 ## 6-multiple_permissions
 Adds execute permission to the owner and group owner, and read permission to others for the file `hello`.
+## 9-John_Doe
+Sets the mode of the file `hello` to `-rwxr-x-wx`.
 
